@@ -150,7 +150,7 @@ public:
             break;
             }
             case 6:
-            {xyprintf(obj[i].x, obj[i].y, "Juanita");
+            {xyprintf(obj[i].x, obj[i].y, "ZX");
             break;
             }
             case 7:
